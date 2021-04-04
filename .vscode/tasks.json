@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "hms/admin/vendor/jquery-file-upload/server/node/",
+			"problemMatcher": [],
+			"label": "npm: install - hms/admin/vendor/jquery-file-upload/server/node",
+			"detail": "install dependencies from package"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+/*----footer-----*/
+.footer{
+	background:#e0e7eb;
+	padding: 5px 4px;
+	margin-top:180px;
+}
+.footer-left{
+	float:left;
+	
+
+}
+.footer-left ul li{
+	display:inline-block;
+
+}
+.footer-left ul li a{
+	font-family: 'Ropa Sans', sans-serif;
+	color:rgb(139, 139, 139);
+	text-transform: uppercase;
+	display: block;
+	margin-right:10px;
+	
+}
+.footer-right{
+	float:right;
+	
+
+}
+.footer-right p{
+	font-family: 'Ropa Sans', sans-serif;
+	color:rgb(139, 139, 139);
+	text-transform: uppercase;
+
+}
+.footer-right a{
+	text-transform: uppercase;
+	color:rgb(139, 139, 139);
+	font-family: 'Ropa Sans', sans-serif;
+
+}
+.footer-right a:hover,.footer-left ul li a:hover{
+	color:#3391E7;
+
+}

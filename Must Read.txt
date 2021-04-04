@@ -1,0 +1,60 @@
+                 : : : : : Used Version AND IDE : : : : : 
+
+Install Xampp:
+
+xampp: https://excellmedia.dl.sourceforge.net/project/xampp/XAMPP%20Windows/5.6.28/xampp-win32-5.6.28-1-VC11-installer.exe
+
+php  version: 5.6.28
+
+
+IDE: VS Code
+
+                   
+                   
+                    : : : : :Language Used: : : : : 
+
+                        1.HTML
+                        2.CSS
+                        3.PHP
+                        4.JavaScript
+                        5.Bootstrap
+                   
+                   
+                   
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+                    Login Details for admin : admin
+                                  Password :Admin@123
+                    Login Details for Patient: sankit@gmail.com 
+                                    Password :Sankit@123
+                    Login Details for Doctor: vijay@gmail.com
+                                    Password : Vijay@123
+
+
+                        : : : : :Process: : : : : 
+                1. first of all you need to install xampp.
+
+                2. then you have to go xampp-htcdoc-make folder(hms) then copy code there.
+
+                3. then go to xampp control and start apache server and mysql server.
+
+                4. then open any browser and type localhost/phpmyadmin/
+
+                5. then create new databse=database name-hms.
+
+                6. then import sql file(hms.sql)
+
+                7. then you have to show your database.
+
+                8. then type in any browser localhost/folder name(hms- which you have give name)/index.html
+
+                9. then your process has been complete  
+
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "hms.sql" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+
+

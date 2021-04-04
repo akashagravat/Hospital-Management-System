@@ -1,0 +1,174 @@
+.block {
+    display: block;
+    margin-top: 2px;
+    margin-bottom: auto;
+    padding-bottom: 200px;
+    padding-block-start: 20px;
+    background-color: sandybrown;
+}
+
+.navbar-nav li a {
+    color: black;
+    background-color: powderblue;
+}
+
+.navbar-nav li a:hover {
+    background-color: lightgreen;
+}
+
+.patient {
+    margin-left: 30px;
+    margin-right: 10px;
+    float: left;
+    background-color: cornsilk;
+}
+
+.pim {
+    float: left;
+    width: 10%;
+}
+
+.pnm {
+    margin: auto;
+    padding-left: 80px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+
+.doctor {
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    padding-left: 10px;
+    background-color: cornsilk;
+}
+
+.dim {
+    float: left;
+}
+
+.dnm {
+    padding-left: 10px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.adm {
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: cornsilk;
+}
+
+.aim {
+    float: left;
+    margin-top: auto;
+}
+
+.anm {
+    margin-top: 30px;
+    float: left;
+    margin-right: 40px;
+    margin-left: 10px;
+}
+
+.nav-foot {
+    display: block;
+    list-style: none;
+}
+
+.nav-foot li {
+    display: inline-block;
+}
+
+.nav-foot li a {
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 20px;
+    font-size: 20px;
+}
+
+.nav-foot li a:hover {
+    background-color: lightgreen;
+}
+
+.map {
+    margin-top: 26px;
+}
+
+.bottom {
+    width: 100%;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+.bottom div {
+    width: 1200px;
+    color: #fff;
+    font-family: calibri;
+    text-align: right;
+}
+
+.bottom div table {
+    padding-top: 30px;
+    width: 1100px;
+    text-align: justify;
+    color: gray;
+    font-size: 20px;
+}
+
+.bottom_up {
+    width: 100%;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+.bottom_up div {
+    padding-top: 20px;
+    width: 1200px;
+    text-align: center;
+    font-family: forte;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.bottom_up div table {
+    padding-top: 30px;
+    font-size: 30px;
+    width: 1100px;
+    text-align: center;
+    font-family: calibri;
+}
+
+input[type="text"] {
+    padding: 12px;
+    width: 250px;
+}
+
+select {
+    padding: 12px;
+    width: 250px;
+}
+
+textarea {
+    padding: 50px;
+    width: 550px;
+}
+
+button {
+    width: 550px;
+    padding: 10px;
+    color: #fff;
+    font-size: 20px;
+    background-color: #2FA5EB !important;
+}
+
+.news {
+    margin-top: 30px;
+    background-color: #2FA5EB;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
